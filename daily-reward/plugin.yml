@@ -1,0 +1,7 @@
+name: "DailyReward"
+main: "net.catrainbow.dailyreward.DailyReward"
+version: "1.0.0"
+author: "Catrainbow"
+description: "每日打卡插件"
+depend:
+  - EconomyAPI

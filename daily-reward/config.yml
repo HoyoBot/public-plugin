@@ -1,0 +1,11 @@
+# 打卡成功消息提示
+# 变量: {money-name} {money-count}
+success: "打卡成功~ 获得{money-name}{money-count}个"
+# 打卡成功给多少金币
+money-count: 10
+# 货币叫什么名字
+money-name: "金币"
+# 打卡失败提示
+failed: "你今日已经打过卡啦,请明日再来吧~"
+# 自定义打卡命令
+command: "打卡"

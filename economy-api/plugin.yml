@@ -1,0 +1,5 @@
+name: "EconomyAPI"
+main: "net.catrainbow.economy.EconomyAPI"
+version: "1.0.0"
+author: "Catrainbow"
+description: "一个前置插件,提供用户数据存储和读写的快速操作方法"
